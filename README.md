@@ -1,5 +1,3 @@
-
-=================================================================
 What is SynthAgent Arena?
 
 SynthAgent Arena is an interactive command-line application that lets you run multi-agent conversations powered by large language models (LLMs). You can choose between several modes:
