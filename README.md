@@ -1,7 +1,3 @@
-# SynthAgent Arena
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 SynthAgent Arena - An interactive multi‑agent debate battleground
 =================================================================
