@@ -1,5 +1,4 @@
-"""
-SynthAgent Arena - An interactive multi‑agent debate battleground
+
 =================================================================
 What is SynthAgent Arena?
 
